@@ -1,0 +1,10 @@
+[test3]
+linux3   ansible_host=10.10.10.178 owner=Sergii 
+
+
+[test5]
+linux5   ansible_host=10.10.10.179 owner=Petya 
+
+[TEST_SERVERS:children]
+test3
+test5

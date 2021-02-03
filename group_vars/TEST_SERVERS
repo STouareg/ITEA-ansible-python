@@ -1,0 +1,5 @@
+---
+ansible_user                 : admturyk
+ansible_ssh_private_key_file : /home/admturyk/.ssh/ansible.pub
+environment                  : TEST
+owner                        : Sergii
