@@ -1,0 +1,1 @@
+ ssh -i ~/.ssh/ansible.pub admturyk@10.10.10.178 'docker logs MyApp'
